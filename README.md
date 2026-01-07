@@ -75,7 +75,7 @@ The title of this paper is "The Use of Machine Learning Techniques to Enhance OS
 This document is a formal paper written for my graduate-level operating systems course, using LaTeX. It discusses the machine learning platform TensorFlow and its potential uses in protecting Android OS devices, PCs, and IoT devices. This is a literature review.
 
 ## Vertex K-Labeling System
-[Link to Vertex K-Labeling System documentation.](https://docs.google.com/document/d/1umOs1oHW8uoyoS-TDIM7uJiRz6_HfTQppSWAaAGNWeg/) Written in 2024.
+[Link to Vertex K-Labeling System documentation.](https://drive.google.com/file/d/15UwYi-Egc_SFUcpV0Xb6q4IjYDtKqenO/) Written in 2024.
 
 This document was one I wrote for a group project. The third problem (N branches with Centroid Vertex) is entirely my work, while the other two were completed by others in my group. The goal was to take various homogeneous star graphs and label their vertices; the third problem in particular asked us to do this with any number of branches. At the time of submitting the assignment, I believed I had succeeded in finding a solution, but I later found that it didn't work for sufficiently large and even values of k.
 
